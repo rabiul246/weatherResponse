@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: #e3f2fd;
+}
+h1{
+    color:#d4dde4;
+    padding: 18px 0;
+    font-size: 1.75rem;
+    background: rgb(19, 105, 180);
+}
